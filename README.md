@@ -16,5 +16,6 @@ This project consists of two main components: the frontend and the backend. Yarn
 2. **Navigate to the backend directory and start server:**
    ```bash
    cd backend
+   yarn install (may not be required)
    node server.js
    ```
