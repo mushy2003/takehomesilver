@@ -1,7 +1,7 @@
 # takehomesilver
 ## Getting Started
 
-This project consists of two main components: the frontend and the backend.
+This project consists of two main components: the frontend and the backend. Yarn and node.js should be installed. 
 
 ### Starting the app
 
@@ -9,6 +9,7 @@ This project consists of two main components: the frontend and the backend.
 
    ```bash
    cd frontend
+   yarn install
    yarn start
    ```
    
